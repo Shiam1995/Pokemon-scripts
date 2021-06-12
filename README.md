@@ -4,3 +4,9 @@ This was a way to see if I could automate some process while playing pokemon usi
 Im sure there are better ways to solve the problems , but as I am a beginner this is the best I came up with 
 
 Fundamentally if i can get to the daycare and spam A, I can win almost every battle with some human aid, i.e choosing the right moves and swapping out pokemon anyways the principle works.
+
+Oh yeah you may need to link the xtodool libary in terminal.
+
+gcc spamA.c -lxdo -o spamA
+gcc upDown.c - lxdo -o upDown
+
