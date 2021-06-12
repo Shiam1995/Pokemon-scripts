@@ -1,3 +1,8 @@
+/* this is a script that will scan and input below 20 (because its a pain when its over 20 to let the controls play out
+it will go left and right for a while, by that time it should have found a while pokemon, sometimes the screen will say wild pokemon has
+appeared and the controls will still be left and right then it will shift into spamming z which is my attack key, rinse and repeat this works */
+
+
 #include <stdio.h>
 #include <xdo.h>
 
