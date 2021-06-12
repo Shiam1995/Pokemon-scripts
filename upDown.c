@@ -1,3 +1,6 @@
+/* Basically a way to move up 2 times then down 2 times , I am using visual boy advance and i made the "u" and "j" mean up and down on a controller 
+I am using xdotool , I didnt read the documentation so there may be better ways to get the job done , but it works well enough */
+
 #include <stdio.h>
 #include <xdo.h>
 
