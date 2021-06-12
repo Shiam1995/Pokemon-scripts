@@ -8,5 +8,7 @@ Fundamentally if i can get to the daycare and spam A, I can win almost every bat
 Oh yeah you may need to link the xtodool libary in terminal.
 
 gcc spamA.c -lxdo -o spamA
-gcc upDown.c - lxdo -o upDown
+gcc upDown.c -lxdo -o upDown
+gcc grind.c -lxdo -o grind
 
+I should mention that this will depend on what you input keys are for whatever emulator you are using and also these are rough inefficent solutions, but they do basically what I need them to do.
